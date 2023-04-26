@@ -22,3 +22,4 @@ If you don't already have an account, then [create a Cloudflare account here](ht
 Configure the "Build command" should be set to `npm run build`, and the "Build output directory" should be set to `public`.
 # cloudfare-mix
 # cloudfare-mix
+# cloudfare-mix
